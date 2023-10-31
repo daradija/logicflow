@@ -1,4 +1,4 @@
-# logicflow
+# Logic Flow
 # Seminar Summary
 
 **Welcome to the seminar where we will explore a possible future of artificial intelligence with a special focus on its relationship with deep learning and reasoning systems.**
